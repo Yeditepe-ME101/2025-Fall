@@ -1,5 +1,5 @@
 #+TITLE: ME 101 Introduction to MechEng
-#+SUBTITLE: Fall 2024
+#+SUBTITLE: Fall 2025
 #+AUTHOR: Fethi Okyar
 #+STARTUP: overview
 #+REVEAL_THEME: simple
@@ -9,12 +9,11 @@
 #+REVEAL_EXTRA_CSS: ./mystyle.css
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 
-* Syllabus 
-** Goal
+* Goal
 -  To equip students with an understanding of what mechanical engineering is and what mechanical engineers do and what the main disciplines in this field are. To let students gain an awareness of ethics, contemporary issues, engineers’ responsibilities and some legal issues related to engineering. To inform students of the University and Faculty rules and regulations.
-** Contents
+* Contents
 -  Orientation, rules and regulations at the University. Introduction to mechanical engineering, its history and related professional organizations. Ethics and implications in engineering ethics. Engineering communications. Engineering codes and standards. Academic report writing and presentation tools. Fundamentals of computer aided design. Fundamentals of freehand sketching. Introduction to scientific computing.
-** CLOs
+* CLOs
 #+ATTR_REVEAL: :frag (appear appear appear ...)
 1. Can perform simple computation using the computer
 2. Able to explain the importance of engineering ethics
@@ -30,14 +29,14 @@
 12. Awareness about innovation and enterpreneurship (added in 24'F)
 13. Ability to function as member of a team (added in 24'F)
 
-** Evaluation
+* Evaluation
 | assignments  | 20 |
 | classwork    | 25 |
 | quizzes      | 15 |
 | attendance   | 10 |
 | final        | 30 |
 
-** Weekly outline
+* Weekly outline
 #+REVEAL_HTML: <div style="font-size: 80%;">
 | Week | [[file:./images/invited_speakers.png][Speakers]] (Seminar) | Laboratory Session         |
 |------+--------------------+----------------------------|
@@ -56,10 +55,10 @@
 |   13 | Salih Eraktan      | 6. Experiment              |
 |   14 | Gürkan Gezgin      | Presentation               |
 
-** Resources
+* Resources
 #+REVEAL_HTML: <div style="font-size: 60%;">
 #+ATTR_REVEAL: :frag (appear appear appear ...)
-- [[file:syllabusbolognaENME101.html][Bologna Syllabus]]
+- [[https://akts.yeditepe.edu.tr/web/Ects/CourseDetail?PID=207&BID=182&Y=1&Z=Z&G=1&DID=5184][Bologna Syllabus]]
 - ~README.org~ for each lecture
 #+ATTR_REVEAL: :frag (appear appear appear ...)
 - Software
