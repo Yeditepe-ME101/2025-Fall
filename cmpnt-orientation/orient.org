@@ -1,6 +1,6 @@
-#+TITLE: ME 101: 2024 Fall
+#+TITLE: ME 101: 2025 Fall
 #+AUTHOR: Fethi Okyar
-#+DATE: 2024-10-08
+#+DATE: 2025-10-03
 #+SUBTITLE: Component 0 Orientation
 #+STARTUP: overview
 #+REVEAL_THEME: simple
@@ -14,6 +14,7 @@
 ** About the Academic System
 #+ATTR_REVEAL: :frag (appear)
 How does education work?
+[[./0.w1AcademicOrientation.pdf]]
 
 * 0.2 Personal Orientation (CLO5)
 About the future, global issues, challenges on the one hand and opportunities, prospects on the other.
