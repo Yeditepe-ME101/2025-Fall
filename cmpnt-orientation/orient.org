@@ -13,8 +13,8 @@
 * 0.1 Academic Orientation
 ** About the Academic System
 #+ATTR_REVEAL: :frag (appear)
-How does education work?
-[[./0.w1AcademicOrientation.pdf]]
+- How does education work?
+- [[./0.w1AcademicOrientation.pdf]]
 
 * 0.2 Personal Orientation (CLO5)
 About the future, global issues, challenges on the one hand and opportunities, prospects on the other.
