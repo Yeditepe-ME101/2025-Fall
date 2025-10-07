@@ -40,7 +40,7 @@
 #+REVEAL_HTML: <div style="font-size: 80%;">
 | Week | [[file:./images/invited_speakers.png][Speakers]] (Seminar) | Laboratory Session         |
 |------+--------------------+----------------------------|
-|    1 | Instructor         | 0.1 Academic Orientation   |
+|    1 | Instructor         | 0.1 [[file+sys:./cmpnt-orientation/0.w1AcademicOrientation.pdf][Academic Orientation]]   |
 |    2 | Yusome             | 0.2 [[./cmpnt-orientation/orient.html::Personal Orientation][Personal Orientation]]   |
 |    3 | MMO Representative | 0.3 Career Orientation     |
 |    4 | Mechanicareer      | Mechanicareer              |
