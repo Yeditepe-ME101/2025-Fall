@@ -50,7 +50,11 @@ Focus: Future Prospects and Challenges
   + Upload the SWOT to the appropriate assignment in Yulearn
 
 #+REVEAL: split
-[[./GenZ-personality-SWOT-analysis.png]]
+[[./GenZ-personality-SWOT-analysis-2024.png]]
+
+#+REVEAL: split
+#+ATTR_HTML: :width 1200px
+[[./swot_2025.png]]
 
 ** Self-Study: The Rule/Role of Ethics
 #+ATTR_REVEAL: :frag (appear)
