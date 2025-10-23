@@ -1,6 +1,6 @@
-#+TITLE: ME 101: 2024 Fall
+#+TITLE: ME 101: 2025 Fall
 #+AUTHOR: Fethi Okyar
-#+DATE: 2024-10-24
+#+DATE: 2025-10-23
 #+SUBTITLE: Component 1 Writing
 #+STARTUP: overview
 #+REVEAL_THEME: simple
@@ -22,29 +22,28 @@ Ask *AI*:
 Various local resources are available from the Yulearn course pages 
 #+ATTR_REVEAL: :frag (appear appear appear ...)
 
-** [[https://yulearn.yeditepe.edu.tr/pluginfile.php/948607/mod_folder/content/0/EngineeringReportAnatomy.pdf?forcedownload=1][Anatomy of an Engineering Report]]
+** [[https://yulearn.yeditepe.edu.tr/pluginfile.php/1028867/mod_folder/content/0/EngineeringReportAnatomy.pdf?forcedownload=1][Anatomy of an Engineering Report]]
 #+ATTR_REVEAL: :frag (appear)
 Review of the linked presentation
 Duration: 15-20 minute
+
+** [[https://yulearn.yeditepe.edu.tr/pluginfile.php/1028867/mod_folder/content/0/ScientificReportElements.pdf?forcedownload=1][Elements of a Scientific Report]] 
+#+ATTR_REVEAL: :frag (appear)
+Review of the linked presentation
+Duration: 10-15 minute
 
 ** Groupwork: Search and Find
 #+ATTR_REVEAL: :frag (appear)
 - 10 minutes search for an engineering report in the internet. Hint:  use the names of big corporations in your search
 - correspond the report you located over the Yulearn discussion forum.
+- Submit the best report that you find to [[https://yulearn.yeditepe.edu.tr/mod/glossary/view.php?id=295879][Best Report Competition]].
 
-** [[https://yulearn.yeditepe.edu.tr/pluginfile.php/948607/mod_folder/content/0/ScientificReportElements.pdf?forcedownload=1][Elements of a Scientific Report]] 
+* [[https://yulearn.yeditepe.edu.tr/pluginfile.php/1028867/mod_folder/content/0/Word%20Processors.pptx?forcedownload=1][Typesetting using a Word Processor]]
 #+ATTR_REVEAL: :frag (appear)
-Review of the linked presentation
-Duration: 10-15 minute
-
-* [[https://yulearn.yeditepe.edu.tr/pluginfile.php/948607/mod_folder/content/0/Word%20Processors.pptx?forcedownload=1][Typesetting using a Word Processor]]
-#+ATTR_REVEAL: :frag (appear)
-Review of the linked presentation
+Review of the linked presentation.\\
 Duration: 15-20 minute
 
-** Lab Practice Session
-#+ATTR_REVEAL: :frag (appear)
-This [[./sample-report.pdf][report template]]  will be duplicated using good report writing practices described in the previous presentation.
+Study the [[./sample-report.pdf][report template]]  for good report writing practices (this template forms the basis of the experiment report you will be asked to prepare towards the end of the semester).\\
 Duration: 15-20 minutes
 
 * LaTeX: an Alternative Typesetting Mode
@@ -61,13 +60,10 @@ A viable option (the free version)
 #+ATTR_REVEAL: :frag (appear appear appear ...)
 - start a new article based on the minimal example provided in the  [[https://www.latex-project.org/][The LaTeX Project]].
 
-** Homework: [[./writing-assignment.html][Using LaTeX in Overleaf]]
+* Classwork: Report Writing
 #+ATTR_REVEAL: :frag (appear)
-Describe the assignment and give 10-15 minutes for the groups to start working on this homework.
-   
-* Seminar - Innovation
-- [[file:../sunumlar/ME101_Innovation_2024Fall.pdf][Slides on Innovation]] prepared by Emre Öztürk
-- [[file:../images/combined_students.png][Reflection from Menti Survey]]
+Describe the assignment and give groups 40-45 minutes to complete the assignment in class.
+** [[./writing-assignment.html][Report Writing Assignment]]
 
 * Questions for next session
 Ask *AI*:
