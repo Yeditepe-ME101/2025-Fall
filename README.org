@@ -38,7 +38,7 @@
 
 * Weekly outline
 #+REVEAL_HTML: <div style="font-size: 80%;">
-| Week | [[file:25FallSeminars.pdf][Speakers]] (Seminar) | Laboratory Session         |
+| Week | [[file:25FallSeminars.png][Speakers]] (Seminar) | Laboratory Session         |
 |------+--------------------+----------------------------|
 |    1 | Instructor         | 0.1 [[file+sys:./cmpnt-orientation/0.w1AcademicOrientation.pdf][Academic Orientation]]   |
 |    2 | Yusome             | 0.2 [[./cmpnt-orientation/orient.html::Personal Orientation][Personal Orientation]]   |
